@@ -1,1 +1,2 @@
 Hello text file for practice
+Added line for conflict
